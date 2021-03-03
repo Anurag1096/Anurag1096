@@ -4,4 +4,4 @@ I am currently looking for an oppurtunity in the field of Machine learning and D
 
 
 - 🔭 I’m currently working on ... Machine learning and deep learning projects
-- 🌱 I’m currently learning ...Neural networks, web development(Html,css,javascript(ES6),nodejs and scss) and general programing.
+- 🌱 I’m currently learning ... Neural networks, web development(Html, Css, Javascript(ES6), Nodejs and Scss) and general programing.

@@ -1,3 +1,4 @@
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <h1 align="center">Hi 👋, I'm Anurag chakravarty</h1>
 <h3 align="center">A Software developer from India</h3>
 
